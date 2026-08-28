@@ -326,6 +326,9 @@ ai-knowledge-system/
 
 If you use a private repository, add the [NALITS assessment account](https://github.com/nalitscom) @nalitscom as a collaborator.
 
+## Most Importantly
+Make sure to submit the Form at https://challenge.nalits.com
+
 ---
 
 # Final Question
