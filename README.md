@@ -324,7 +324,7 @@ ai-knowledge-system/
     └── ...
 ```
 
-If you use a private repository, add the NALITS assessment account as a collaborator using the instructions provided in the application form.
+If you use a private repository, add the [NALITS assessment account](https://github.com/nalitscom) @nalitscom as a collaborator.
 
 ---
 
